@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KalkulatorBMI</string>
+    <string name="oblicz_bmi">Oblicz BMI !</string>
+    <string name="zamknij_app">Zamknij App</string>
+    <string name="witaj_w_kalkulatorze_bmi">Witaj w Kalkulatorze BMI !</string>
+    <string name="powitanie">Kalkulator Body Mass Index daje każdemu możliwość szybkiego i wygodego obliczenia własnego wskaźnika masy ciała.Kalkulator BMI obrazuje przybliżoną zawartość tłuszczu w organiźmie.</string>
+    <string name="na_pocz_tek_podaj_kilka_informacji_o_sobie">Na początek podaj kilka informacji o sobie...</string>
+    <string name="me_czyzna">Mężczyzna</string>
+    <string name="kobieta">Kobieta</string>
+    <string name="twoja_waga_w_kilogramach">Twoja waga w kilogramach:</string>
+    <string name="tw_j_wzrost_w_cm">Twój wzrost w cm:</string>
+    <string name="oblicz">OBLICZ !</string>
+    <string name="twoje_bmi_wynosi">Twoje BMI wynosi</string>
+</resources>
